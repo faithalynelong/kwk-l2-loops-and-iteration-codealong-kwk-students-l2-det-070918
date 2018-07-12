@@ -8,5 +8,8 @@ return names;
 
 
 function tailsNeverFails(coins){
-  if(coin)
+  
+}
+while (tailsNeverFails()) {
+  console.log( '')
 }
