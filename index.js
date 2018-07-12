@@ -7,4 +7,6 @@ return names;
 }
 
 
-function tailsNeverFails( )
+function tailsNeverFails( ){
+  
+}
