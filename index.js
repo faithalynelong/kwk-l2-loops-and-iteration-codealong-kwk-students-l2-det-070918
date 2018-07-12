@@ -13,5 +13,5 @@ function tailsNeverFails(coins){
 
 let x =?
 while (tailsNeverFails()) {
-  console.log( '')
+  console.log(x)
 }
