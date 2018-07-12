@@ -9,13 +9,7 @@ function printBadges(names){
 
 function tailsNeverFails(coins){
   
-}
-
-// let tailsNeverFails = 
-// while (tailsNeverFails ){
-//   console.log(x);
-// }
-
  while (Math.random() >= 0.5) {
     tails++;
   }
+}
