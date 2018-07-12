@@ -12,5 +12,5 @@ function tailsNeverFails(coins){
   while (Math.random() >= 0.5) {
     tails++;
   }
-  return ""
+  return "You got ${tails} tails!"
 }
