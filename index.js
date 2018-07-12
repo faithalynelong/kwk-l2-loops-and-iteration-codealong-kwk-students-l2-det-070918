@@ -12,6 +12,6 @@ function tailsNeverFails(coins){
 }
 
 let tailsNeverFails = 5
-while (tailsNeverFails {
+while (tailsNeverFails ){
   console.log(x);
 }
