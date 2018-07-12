@@ -8,5 +8,5 @@ return names;
 
 
 function tailsNeverFails( ){
-  
+  return Math.random
 }
