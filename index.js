@@ -11,7 +11,7 @@ function tailsNeverFails(coins){
   
 }
 
-let x =?
-while (tailsNeverFails()) {
+let tailsNeverFails = 5
+while (tailsNeverFails {
   console.log(x);
 }
