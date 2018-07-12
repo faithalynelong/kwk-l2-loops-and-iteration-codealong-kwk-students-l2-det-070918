@@ -7,6 +7,6 @@ return names;
 }
 
 
-function tailsNeverFails( ){
-  if 
+function tailsNeverFails(coins){
+  if(coin)
 }
