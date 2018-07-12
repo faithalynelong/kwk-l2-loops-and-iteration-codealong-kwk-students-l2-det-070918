@@ -8,8 +8,8 @@ function printBadges(names){
 
 
 function tailsNeverFails(coins){
-  let tails =0;
- while (Math.random() >= 0.5) {
+  let tails = 0;
+  while (Math.random() >= 0.5) {
     tails++;
   }
 }
